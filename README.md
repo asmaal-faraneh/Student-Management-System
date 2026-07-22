@@ -1,5 +1,5 @@
 # Student Management System 
-
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4e5c3305-69d7-45af-a34b-04c2bf3df209" />
 A C++ Object-Oriented Programming project developed to manage student records, grades, and academic information through a simple console-based interface.
 
 ## Features
