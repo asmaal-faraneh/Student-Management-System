@@ -1,4 +1,4 @@
-Student Management System 
+## Student Management System 
 
 A C++ Object-Oriented Programming project developed to manage student records, grades, and academic information through a simple console-based interface.
 
